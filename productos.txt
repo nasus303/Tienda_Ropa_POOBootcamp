@@ -1,0 +1,4 @@
+Ropa_Hombre,Camisa de Hombre,25.0,50,M
+Ropa_Hombre,Pantalón de Hombre,30.0,30,XXL
+Ropa_Mujer,Falda de Mujer,28.0,15,S
+Ropa_Mujer,Zapato de Mujer,50.0,25,X
